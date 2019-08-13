@@ -102,7 +102,6 @@
 ## SPECIAL THANKS TO:
 	* Code by Ccocot (ccocot@bc0de.net)
 	* Fixing and Testing by Putu Syntax
-	* SGB TEAM REBORN
+	* SGB TEAM REBORN | IKIGANTENG - BOT IGEH
 	* BC0DE.NET | NAONLAH.NET - WingKocoli
 	* Ilyasa Fathur Rahman (Tutorial dari VPS Centos)
-* Ikiganteng
